@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaka234" target="blank"><img src="https://img.shields.io/twitter/follow/kaka234?logo=twitter&style=for-the-badge" alt="kaka234" /></a> </p>
 
-- 🌱 I’m currently learning **C programming, Javascript and Python**
+- 🌱 I’m currently learning **CSS, HTML, Javascript and Python**
 
 - 📫 How to reach me **pascalmuthama01@gmail.com**
 
