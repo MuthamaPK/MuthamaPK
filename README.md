@@ -3,13 +3,17 @@
 
 
 <h1 align="center">Hello fahm👋, I'm Pascal Muthama</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya.</h3>
+<h3 align="center">A passionate Software Developer from Nairobi, Kenya.</h3>
+<h3 align="center"><ol><li>Mobile Development</li>
+                      <li>Web Development</li>
+                      <li>Web Design</li>
+</ol></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthamapk" alt="muthamapk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kaka234" target="blank"><img src="https://img.shields.io/twitter/follow/kaka234?logo=twitter&style=for-the-badge" alt="kaka234" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pascal_muthama" target="blank"><img src="https://img.shields.io/twitter/follow/pascal_muthama?logo=twitter&style=for-the-badge" alt="pascal_muthama" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, HTML, Javascript and Python**
+- 🌱 I’m currently learning **CSS, HTML, Javascript, Python and Dart & Flutter**
 
 - 📫 How to reach me **pascalmuthama01@gmail.com**
 
