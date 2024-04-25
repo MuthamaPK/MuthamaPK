@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kaka234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaka234" height="30" width="40" /></a>
-<a href="https://instagram.com/pascal_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pascal_m" height="30" width="40" /></a>
+<a href="https://twitter.com/pascal_muthama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pascal_muthama" height="30" width="40" /></a>
+<a href="https://instagram.com/p.ascal_m_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.ascal_m_" height="30" width="40" /></a>
 </p>
 <p><img align="center" src="https://media3.giphy.com/media/khr2lS27v92PQPD3oa/giphy.gif?cid=ecf05e473rc745ig7k9egbranoyfs4xeg9qef5ncc05auw4l&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif"</p>
 <h3 align="left">Languages and Tools:</h3>
