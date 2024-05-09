@@ -1,19 +1,16 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Zealous+software+developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Zealous+fullstack+software+developer)](https://git.io/typing-svg)
 
 
 
 <h1 align="center">Hello fahm👋, I'm Pascal Muthama</h1>
-<h3 align="center">A passionate Software Developer from Nairobi, Kenya.</h3>
-<h3 align="center"><ol><li>Mobile Development</li>
-                      <li>Web Development</li>
-                      <li>Web Design</li>
-</ol></h3>
+<h3 align="center">A passionate Fullstack Software Developer based in Nairobi, Kenya.</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muthamapk" alt="muthamapk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pascal_muthama" target="blank"><img src="https://img.shields.io/twitter/follow/pascal_muthama?logo=twitter&style=for-the-badge" alt="pascal_muthama" /></a> </p>
 
-- 🌱 I’m currently learning **CSS, HTML, Javascript, Python and Dart & Flutter**
+- 🌱 I’m currently learning**...**
 
 - 📫 How to reach me **pascalmuthama01@gmail.com**
 
