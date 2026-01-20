@@ -1,25 +1,37 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Analysis+Student;Aspiring+Data+Scientist;Software+Developer)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development+Student;Aspiring+Fullstack+Developer;Open+to+Internships)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Pascal Muthama</h1>
-<h3 align="center">Data Analysis Student | Aspiring Data Scientist | Software Developer</h3>
+<h3 align="center">Software Development Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-I am passionate about turning raw data into meaningful insights and building data-driven solutions.  
-Currently seeking **Data Analytics / Data Science Internship or Industrial Attachment** opportunities.
+I am passionate about building reliable, scalable, and user-focused software solutions.  
+Currently seeking **Software Development Internship / Industrial Attachment** opportunities in the tech space.
 </p>
 
 ---
 
-- 🎓 **Field:** Data Analysis & Software Development  
-- 🌱 **Currently learning:** Data Science, Machine Learning & Full-Stack Development  
-- 💼 **Looking for:** Data Analytics / Data Science Internship or Attachment  
+- 🎓 **Field:** Software Development  
+- 🌱 **Currently learning:** Full-Stack Development & Software Engineering Practices  
+- 💼 **Looking for:** Internship / Industrial Attachment in Software & IT Roles  
 - 📫 **Email:** **pascalmuthama01@gmail.com**  
 - ⚡ **Fun fact:** I enjoy dark humour 😄
 
 ---
 
+## 💬 Daily Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<a href="https://www.linkedin.com/in/pascal-muthama" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+</a>
+
 <a href="https://twitter.com/pascal_muthama" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
 </a>
@@ -28,37 +40,23 @@ Currently seeking **Data Analytics / Data Science Internship or Industrial Attac
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pascal-muthama" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-original.svg" height="30" width="40"/>
-</a>
-
 <a href="mailto:pascalmuthama01@gmail.com">
   <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40"/>
 </a>
-</p>
 
-
----
-
-<h3 align="left">Data Analysis & Tools:</h3>
-<p align="left">
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40"/></a>
 </p>
 
 ---
 
-<h3 align="left">Supporting Development Skills:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
