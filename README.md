@@ -29,7 +29,7 @@ Currently seeking **Data Analytics / Data Science Internship or Industrial Attac
 </a>
 
 <a href="https://www.linkedin.com/in/pascal-muthama" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin-original.svg" height="30" width="40"/>
 </a>
 
 <a href="mailto:pascalmuthama01@gmail.com">
