@@ -1,7 +1,7 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development+Student;Aspiring+Fullstack+Developer;Open+to+Internships)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer;Data+Nerd;Open+to+collaborations)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Pascal Muthama</h1>
-<h3 align="center">Software Development Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Software Developer | Data Nerd</h3>
 
 <p align="center">
 I am passionate about building reliable, scalable, and user-focused software solutions.  
@@ -11,7 +11,7 @@ Currently seeking **Software Development Internship / Industrial Attachment** op
 ---
 
 - 🎓 **Field:** Software Development  
-- 🌱 **Currently learning:** Full-Stack Development & Software Engineering Practices  
+- 🌱 **Currently learning:** Software development & Data Science practices  
 - 💼 **Looking for:** Internship / Industrial Attachment in Software & IT Roles  
 - 📫 **Email:** **pascalmuthama01@gmail.com**  
 - ⚡ **Fun fact:** I enjoy dark humour 😄
