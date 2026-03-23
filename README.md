@@ -66,13 +66,13 @@ Currently seeking **Software Development Internship / Industrial Attachment** op
 <h3>GitHub Stats:</h3>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muthamapk&show_icons=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pascal-hq&show_icons=true&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muthamapk&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=pascal-hq&show_icons=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muthamapk" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pascal-hq" />
 </p>
